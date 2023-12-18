@@ -16,7 +16,7 @@ function apicall(methodname, url){
             }
         }
         xhr.send()
-    })fsdfsdf
+    })
 }
 
 apicall('GET', 'https://jsonplaceholder.typicode.com/posts')
